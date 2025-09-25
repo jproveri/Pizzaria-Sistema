@@ -54,8 +54,11 @@ pizzaria/
 - `@types/readline-sync` → tipagens para o pacote readline-sync.
 
 ---
+### 3. Diagrama da Aplicação
 
-## ⚙️ 3. Instruções de Instalação e Execução
+![Imagem do WhatsApp de 2025-09-25 à(s) 18 44 18_bd73911a](https://github.com/user-attachments/assets/a9bb7740-9348-4396-bf16-b91a104e4dd6)
+
+## ⚙️ 4. Instruções de Instalação e Execução
 
 ### 🚀 Passo a Passo de Instalação e Execução
 
