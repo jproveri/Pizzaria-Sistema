@@ -1,19 +1,3 @@
-/**
- * Sistema de Pizzaria (versão simples em um único arquivo)
- * Feito de forma didática como se fosse por um estudante do 2º semestre.
- * Funcionalidades:
- *  - Cadastro de Clientes (CRUD)
- *  - Cadastro de Produtos (CRUD) – pizzas, refrigerantes, sobremesas, outros
- *  - Registro de Pedidos com recibo
- *  - Relatórios: pizzas vendidas por dia e por mês
- *  - Extras: promoções simples, formas de pagamento, histórico de compras do cliente
- *  - Executável via: npx ts-node src/index.ts (ou compilar e rodar com node)
- *
- * Observações:
- *  - Tudo em memória (ao encerrar o programa os dados somem)
- *  - Foco na simplicidade / clareza, não em arquitetura avançada
- */
-
 // Declarações mínimas (sem depender de @types/node para manter o arquivo único simples)
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 declare function require(name: string): any;
@@ -549,3 +533,4 @@ if (typeof require !== 'undefined' && typeof module !== 'undefined' && (require 
 }
 
 // Fim do arquivo
+
