@@ -1,9 +1,7 @@
-# 🍕 Sistema de Pizzaria (didático)
+# 🍕 Sistema de Pizzaria
 
 Este projeto consiste no desenvolvimento de um **sistema de gerenciamento para pizzaria** escrito em **TypeScript**, com execução no terminal.  
-Ele foi elaborado com fins **acadêmicos e didáticos**, simulando um cenário real de atendimento, onde é possível gerenciar clientes, produtos e pedidos de forma simples e organizada.  
-
-O objetivo principal é **praticar lógica de programação, estruturas de dados, manipulação de arquivos (CSV) e utilização de dependências no ecossistema Node.js**, aproximando a teoria aprendida em sala de aula de uma aplicação prática.  
+Ele foi elaborado, simulando um cenário real de atendimento, onde é possível gerenciar clientes, produtos e pedidos de forma simples e organizada.  
 
 ---
 
