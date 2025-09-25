@@ -107,7 +107,7 @@ cd ..
 #    └─ pedidos.csv
 
 # 11. Colar o código
-Dispoivel na pasta do Git Hub, denominado de index.ts
+Dispoivel em Pizzaria-Sistema/src/index.ts
 
 # 12. Compilar o arquivo TypeScript para JavaScript
 npx tsc src/index.ts
