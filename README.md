@@ -32,6 +32,7 @@ A interação é feita por meio de menus simples usando o pacote `readline-sync`
 
 ### Estrutura de pastas:
 
+```Bash
 pizzaria/
 ├─ package.json
 ├─ tsconfig.json
