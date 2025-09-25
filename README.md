@@ -106,13 +106,16 @@ cd ..
 #    ├─ produtos.csv
 #    └─ pedidos.csv
 
-# 11. Compilar o arquivo TypeScript para JavaScript
+# 11. Colar o código
+Dispoivel na pasta do Git Hub, denominado de index.ts
+
+# 12. Compilar o arquivo TypeScript para JavaScript
 npx tsc src/index.ts
 
-# 12. Executar o arquivo compilado no Node
+# 13. Executar o arquivo compilado no Node
 node src/index.js
 
-# 13. (Alternativa) Executar direto o TypeScript sem compilar
+# 14. (Alternativa) Executar direto o TypeScript sem compilar
 npx ts-node src/index.ts
 
 
