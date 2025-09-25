@@ -44,7 +44,7 @@ pizzaria/
    ├─ clientes.csv          # Dados de clientes
    ├─ produtos.csv          # Dados de produtos
    └─ pedidos.csv           # Dados de pedidos
-   
+ ```  
 
 ### Dependências de runtime:
 - `readline-sync` → para interação via terminal.
