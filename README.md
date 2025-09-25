@@ -59,7 +59,7 @@ pizzaria/
 
 ### 🚀 Passo a Passo de Instalação e Execução
 
-`Comandos em bash`
+```Bash
 # 1. Criar a pasta do projeto e entrar nela
 mkdir Pizzaria
 cd Pizzaria
