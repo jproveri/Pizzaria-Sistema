@@ -11,7 +11,8 @@ O objetivo principal é **praticar lógica de programação, estruturas de dados
 - João Pedro Roveri - RA 2510193  
 - Alexandre Rebello - RA 2506485  
 - Enzo Tavares - RA 2500507  
-- Miguel Henrique Oliveira - RA 2501000  
+- Miguel Henrique Oliveira - RA 2501000
+- André Almeida de Oliveira - RA 2501296
 
 ---
 
